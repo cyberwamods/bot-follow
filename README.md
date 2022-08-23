@@ -26,7 +26,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ termux-wake-lock`
 
-`$ bash insfollow.sh`
+`$ bash bot-follow.sh`
 
 ---
 
