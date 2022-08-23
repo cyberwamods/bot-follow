@@ -22,7 +22,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ cd bot-follow`
 
-`$ chmod +x insfollow.sh`
+`$ chmod +x bot-follow.sh`
 
 `$ termux-wake-lock`
 
